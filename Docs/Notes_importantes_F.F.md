@@ -106,6 +106,32 @@ sur quels aspects majeures sont évalués les joueurs par postes / critères tec
 \_ Voir le budget de chaque équipe pour les différents grands postes
 
 
+**Choisir le meilleur attaquant :**
+
+1. Calcul de la moyenne des cinques hautes compétences du poste attaquant (SprintSpeed, Acceleration, Jumping, Strength, Agility).
+2.Calcul des trois joueurs ayant les plus hautes des moyennes des compétences.
+3.Création d'un graphe de distribution des trois joueurs en fonction de ces moyennes.
+
+
+**Résulat d'analyse du graphe :** D'après le graphe, les joueurs ayant les plus hautes moyennes des compétences en poste d'attaquant sont Cristinao Ronaldo, F.Acheampong, G.Bale)
+
+Choix : **Cristiano Ronaldo** car :
+	
+  Selon les Graphes:
+		 - Trois meilleurs joueurs par rapport à la moyenne des compétences (C.Ronaldo a la plus haute moyenne des compétences de vitesse, acceleration).  
+		 - repartition pied agilite par poste : (C.Ronaldo est parmi les 85% attaquants qui utilisent un pied droit contrerement au G.Bale qui est un gauchier ce qui n'est pas aussi fontionnel sur le terrin comparant aux droitiers).
+		 - evolution salaire ancienneté : (Vu que C.Ronaldo a 33 ans en 2019, il est au environs de 15000 ce qui veut dire qu'il est ancien et le prix est mérité, on préférent d'investir sur quelqu'un qui a les critéres nécessaires en terme de compétences comparant à G.Bale et F.Acheampong qui ont 28 et 26 ans, ce qui implique un salaire qui peut arriver jusqu'à 13500).
+		 - classement joueurs populaire par pays : (Le plus populaire au Portugal est C.Ronaldo, ce qui une bonne réputation par rapport aux deux autres joueurs).
+
+Non seulement la réputation et les compétences techniques qui sont la cause de notre choix , mais aussi les caractéristiques physiques tels que : 
+ - Taille du joueur et son poids : selon les graphes :
+	- Taille des joueurs par rapport aux groupes de postes : ( la moyenne des tailles des attaquants est à environ de 1.70 et C.Ronaldo est à 1.82 ce qui est bénifique pour les tires, vitesse, ...)
+	- Poids des joueurs par rapport aux froupes de postes : ( la moyenne des poids des attaquants est à environs de 76 kg et on remarque que C.Ronaldo il est en 83, ce qui n'influence pas vu qu'il a réussi à faire un équilibre entre sa taille et son poids. 
+
+
+**Pour celà**, on a pu avoir une solution pour notre problématique en choisissant C.Ronaldo comme meilleur attaquant selon tous les critéres cités dans les graphes réalisés. Mais celà ne veut pas dire ignorer les deux autres attaquants qu'ils vont etre aussi dans l'équipe malgré les différences entre eux (c'est ce qui forme une équipe performantes et homogéne).  
+	
+ 
 
 
 
