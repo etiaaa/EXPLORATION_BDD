@@ -1,6 +1,11 @@
 pipeline {
     agent any
-
+    
+    environment {
+        DOCKER_IMAGE = 'Project_Image-Docker'
+        DOCKER_CREDENTIALS_ID = '2024'
+    }
+    
     stages {
         stage('Checkout') {
             steps {
